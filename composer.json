@@ -1,5 +1,5 @@
 {
-    "name": "infusionsoft/php-sdk",
+    "name": "evolutednewmedia/php-sdk",
     "description": "Beta PHP SDK for the Infusionsoft",
     "keywords": [
         "infusionsoft",
@@ -17,7 +17,7 @@
         "php": ">=5.3.3",
         "ext-curl": "*",
         "guzzle/guzzle": "3.8.*",
-        "lstrojny/fxmlrpc": "0.8.*"
+        "lstrojny/fxmlrpc": "0.*"
     },
     "require-dev": {
         "mockery/mockery": "dev-master",
